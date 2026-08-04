@@ -1,107 +1,155 @@
 # ✈️ Awesome Cross-View Geo-Localization
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ISChenawei)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A curated list of papers, datasets, and open-source resources for **Cross-View Geo-Localization (CVGL)**.
+> A curated list of top-tier papers, datasets, and open-source resources for **Cross-View Geo-Localization (CVGL)**.
 
-Cross-view geo-localization aims to determine the geographical location of a query image by matching images captured from different viewpoints, such as drone, satellite, aerial, street-view, and ground-level images.
+This repository focuses on two main research directions:
 
-This repository contains three main parts:
+- **Drone-View Geo-Localization**
+- **Ground-View Geo-Localization**
 
-* **Drone-View Geo-Localization**
-* **Ground-View Geo-Localization**
-* **Datasets**
+Only papers published in selected top-tier conferences and journals are included in the main paper tables. Preprints from our group are retained only in **Our Contributions** and are clearly marked as preprints.
 
 ---
 
 ## 📖 Table of Contents
 
-* [🚁 Drone-View Geo-Localization](#-drone-view-geo-localization)
-* [🚶 Ground-View Geo-Localization](#-ground-view-geo-localization)
-* [💾 Datasets](#-datasets)
-* [🤝 Contributing](#-contributing)
-* [📧 Contact](#-contact)
+- [🌟 Our Contributions](#-our-contributions)
+- [🚁 Drone-View Geo-Localization](#-drone-view-geo-localization)
+- [🚶 Ground-View Geo-Localization](#-ground-view-geo-localization)
+- [💾 Datasets](#-datasets)
+- [🤝 Contributing](#-contributing)
+- [📧 Contact](#-contact)
+
+---
+
+## 🌟 Our Contributions
+
+- **[TCSVT 2026] Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization**  
+  [Paper](https://arxiv.org/abs/2512.19365) | [Code](https://github.com/ISChenawei/SpikeViMFormer)
+
+- **[TNNLS 2026] Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization**  
+  [Paper](https://doi.org/10.1109/TNNLS.2026.3696684) | [Code](https://github.com/ISChenawei/DMNIL)
+
+- **[TMM 2026] From Limited Labels to Open Domains: An Efficient Learning Method for Drone-View Geo-Localization**  
+  [Paper](https://arxiv.org/abs/2503.07520) | [Code](https://github.com/ISChenawei/CDIKTNet)
+
+- **[TGRS 2025] Multilevel Embedding and Alignment Network With Consistency and Invariance Learning for Cross-View Geo-Localization**  
+  [Paper](https://doi.org/10.1109/TGRS.2025.3572775) | [Code](https://github.com/ISChenawei/MEAN)
+
+- **[Preprint 2026] GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation**  
+  [Paper](https://arxiv.org/abs/2607.25788)
+
+- **[Preprint 2026] A Unified Benchmark and Modality-Adaptive Network for Day-and-Night Drone-View Geo-Localization**  
+  [Paper](https://arxiv.org/abs/2607.25778) | [Code and Dataset](https://github.com/SongtianhaoXu/MASTR-Net)
 
 ---
 
 ## 🚁 Drone-View Geo-Localization
 
-Drone-View Geo-Localization, abbreviated as **DVGL**, aims to determine the geographical location of a drone-view image by matching it with satellite or aerial images.
+> ⭐ denotes work from this repository's maintainers.
 
-The common retrieval directions include:
-
-* Drone-to-Satellite
-* Satellite-to-Drone
-
-| Year | Conference / Journal | Title       |    Paper   |    Code   |
-| :--: | :------------------: | :---------- | :--------: | :-------: |
-| 2026 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2025 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2024 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2023 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
+| Year | Venue | Title | Resources |
+|:---:|:---:|:---|:---|
+| 2026 | **CVPR** | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Beyond_Matching_to_Tiles_Bridging_Unaligned_Aerial_and_Satellite_Views_CVPR_2026_paper.html) |
+| 2026 | **CVPR** | PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_PAUL_Uncertainty-Guided_Partition_and_Augmentation_for_Robust_Cross-View_Geo-Localization_under_CVPR_2026_paper.html) |
+| 2026 | **CVPR** | UniGeoRS: A Unified Benchmark for Tri-view Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_UniGeoRS_A_Unified_Benchmark_for_Tri-view_Geo-Localization_CVPR_2026_paper.html) |
+| 2026 | **CVPR** | GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Song_GeoBridge_A_Semantic-Anchored_Multi-View_Foundation_Model_Bridging_Images_and_Text_CVPR_2026_paper.html) · [Code](https://github.com/MiliLab/GeoBridge) |
+| 2026 | **TCSVT** | ⭐ Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization | [Paper](https://arxiv.org/abs/2512.19365) · [Code](https://github.com/ISChenawei/SpikeViMFormer) |
+| 2026 | **TNNLS** | ⭐ Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization | [Paper](https://doi.org/10.1109/TNNLS.2026.3696684) · [Code](https://github.com/ISChenawei/DMNIL) |
+| 2026 | **TMM** | ⭐ From Limited Labels to Open Domains: An Efficient Learning Method for Drone-View Geo-Localization | [Paper](https://arxiv.org/abs/2503.07520) · [Code](https://github.com/ISChenawei/CDIKTNet) |
+| 2025 | **ICCV** | MMGeo: Multimodal Compositional Geo-Localization for UAVs | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ji_MMGeo_Multimodal_Compositional_Geo-Localization_for_UAVs_ICCV_2025_paper.html) · [Code](https://github.com/Yux1angJi/MMGeo) |
+| 2025 | **TGRS** | ⭐ Multilevel Embedding and Alignment Network With Consistency and Invariance Learning for Cross-View Geo-Localization | [Paper](https://doi.org/10.1109/TGRS.2025.3572775) · [Code](https://github.com/ISChenawei/MEAN) |
+| 2024 | **TIP** | Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments | [Paper](https://arxiv.org/abs/2201.09201) · [Code](https://github.com/Dmmm1997/DenseUAV) |
+| 2024 | **TGRS** | CAMP: A Cross-View Geo-Localization Method Using Contrastive Attributes Mining and Position-Aware Partitioning | [Paper](https://ieeexplore.ieee.org/document/10644040) · [Code](https://github.com/Mabel0403/CAMP) |
+| 2024 | **TCSVT** | SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization | [Paper](https://arxiv.org/abs/2403.04172) · [Code](https://github.com/C-water/SDPL) |
+| 2023 | **ICCV** | Sample4Geo: Hard Negative Sampling for Cross-View Geo-Localisation | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Deuser_Sample4Geo_Hard_Negative_Sampling_For_Cross-View_Geo-Localisation_ICCV_2023_paper.html) · [Code](https://github.com/Skyy93/Sample4Geo) |
+| 2023 | **TCSVT** | SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite | [Paper](https://arxiv.org/abs/2204.10704) · [Code and Dataset](https://github.com/Reza-Zhu/SUES-200-Benchmark) |
+| 2022 | **TCSVT** | A Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization | [Paper](https://arxiv.org/abs/2201.09206) · [Code](https://github.com/Dmmm1997/FSRA) |
+| 2021 | **TCSVT** | Each Part Matters: Local Patterns Facilitate Cross-View Geo-Localization | [Paper](https://arxiv.org/abs/2008.11646) · [Code](https://github.com/wtyhub/LPN) |
+| 2020 | **ACM MM** | University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization | [Paper](https://arxiv.org/abs/2002.12186) · [Code and Dataset](https://github.com/layumi/University1652-Baseline) |
 
 ---
 
 ## 🚶 Ground-View Geo-Localization
 
-Ground-View Geo-Localization aims to determine the geographical location of a ground-level image by matching it with satellite or aerial images.
-
-Ground-view images may include street-view panoramas, vehicle-view images, pedestrian-view images, and ordinary ground-level photographs.
-
-| Year | Conference / Journal | Title       |    Paper   |    Code   |
-| :--: | :------------------: | :---------- | :--------: | :-------: |
-| 2026 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2025 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2024 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
-| 2023 |         Venue        | Paper Title | [Paper](#) | [Code](#) |
+| Year | Venue | Title | Resources |
+|:---:|:---:|:---|:---|
+| 2026 | **CVPR** | Geo2: Geometry-Guided Cross-view Geo-Localization and Image Synthesis | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Geo2_Geometry-Guided_Cross-view_Geo-Localization_and_Image_Synthesis_CVPR_2026_paper.html) |
+| 2026 | **CVPR** | SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.html) |
+| 2026 | **CVPR** | RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_RHO_Robust_Holistic_OSM-Based_Metric_Cross-View_Geo-Localization_CVPR_2026_paper.html) · [Code](https://github.com/InSAI-Lab/RHO) |
+| 2026 | **AAAI** | First Learn, Then Review: Human-Like Continual Learning for Cross-View Geo-Localization with Limited Field of View | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37321) |
+| 2025 | **NeurIPS** | CVGL: Causal Learning and Geometric Topology | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/70b41fdc029f59d47be4dbd70884cf31-Abstract-Conference.html) |
+| 2025 | **ICCV** | Where am I? Cross-View Geo-Localization with Natural Language Descriptions | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ye_Where_am_I_Cross-View_Geo-localization_with_Natural_Language_Descriptions_ICCV_2025_paper.html) · [Code and Dataset](https://github.com/yejy53/CVG-Text) |
+| 2025 | **ICCV** | GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Tong_GeoDistill_Geometry-Guided_Self-Distillation_for_Weakly_Supervised_Cross-View_Localization_ICCV_2025_paper.html) · [Code](https://github.com/tongshw/GeoDistill) |
+| 2025 | **CVPR** | FG²: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_FG2_Fine-Grained_Cross-View_Localization_by_Fine-Grained_Feature_Matching_CVPR_2025_paper.html) |
+| 2025 | **ISPRS P&RS** | Cross-View Geo-Localization with Panoramic Street-View and VHR Satellite Imagery in Decentrality Settings | [Paper](https://arxiv.org/abs/2412.11529) · [Code and Dataset](https://github.com/SummerpanKing/DReSS) |
+| 2024 | **TPAMI** | GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement | [Paper](https://doi.org/10.1109/TPAMI.2024.3443652) · [Code](https://github.com/zxh009123/GeoDTR_plus) |
+| 2024 | **ECCV** | Cross-View Image Geo-Localization with Panorama-BEV Co-Retrieval Network | [Code](https://github.com/yejy53/EP-BEV) |
+| 2024 | **CVPR** | Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Unleashing_Unlabeled_Data_A_Paradigm_for_Cross-View_Geo-Localization_CVPR_2024_paper.html) · [Code](https://github.com/liguopeng0923/UCVGL) |
+| 2024 | **CVPR** | View From Above: Orthogonal-View Aware Cross-View Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_View_From_Above_Orthogonal-View_aware_Cross-view_Localization_CVPR_2024_paper.html) · [Code](https://github.com/ShanWang-Shan/View-From-Above) |
+| 2023 | **NeurIPS** | Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator | [Paper](https://arxiv.org/abs/2308.16906) |
+| 2023 | **ICCV** | Sample4Geo: Hard Negative Sampling for Cross-View Geo-Localisation | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Deuser_Sample4Geo_Hard_Negative_Sampling_For_Cross-View_Geo-Localisation_ICCV_2023_paper.html) · [Code](https://github.com/Skyy93/Sample4Geo) |
+| 2022 | **CVPR** | TransGeo: Transformer Is All You Need for Cross-View Image Geo-Localization | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.html) · [Code](https://github.com/Jeff-Zilence/TransGeo2022) |
+| 2022 | **CVPR** | Beyond Cross-View Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_Beyond_Cross-View_Image_Retrieval_Highly_Accurate_Vehicle_Localization_Using_Satellite_CVPR_2022_paper.html) |
+| 2021 | **NeurIPS** | Cross-View Geo-Localization with Layer-to-Layer Transformer | [Paper](https://proceedings.neurips.cc/paper/2021/hash/f31b20466ae89669f9741e047487eb37-Abstract.html) · [Code](https://github.com/yanghongji2007/cross_view_localization_L2LTR) |
+| 2021 | **CVPR** | VIGOR: Cross-View Image Geo-Localization Beyond One-to-One Retrieval | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.html) · [Code and Dataset](https://github.com/Jeff-Zilence/VIGOR) |
+| 2020 | **CVPR** | Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Where_Am_I_Looking_At_Joint_Location_and_Orientation_Estimation_CVPR_2020_paper.html) · [Code](https://github.com/YujiaoShi/cross_view_localization_DSM) |
+| 2020 | **AAAI** | Optimal Feature Transport for Cross-View Image Geo-Localization | [Paper](https://arxiv.org/abs/1907.05021) · [Code](https://github.com/YujiaoShi/cross_view_localization_CVFT) |
+| 2019 | **ICCV** | Bridging the Domain Gap for Ground-to-Aerial Image Matching | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Regmi_Bridging_the_Domain_Gap_for_Ground-to-Aerial_Image_Matching_ICCV_2019_paper.html) |
+| 2019 | **ICCV** | Ground-to-Aerial Image Geo-Localization with a Hard Exemplar Reweighting Triplet Loss | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Cai_Ground-to-Aerial_Image_Geo-Localization_With_a_Hard_Exemplar_Reweighting_Triplet_Loss_ICCV_2019_paper.html) |
+| 2019 | **NeurIPS** | Spatial-Aware Feature Aggregation for Image-Based Cross-View Geo-Localization | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/ba2f0015122a5955f8b3a50240fb91b2-Abstract.html) · [Code](https://github.com/YujiaoShi/cross_view_localization_SAFA) |
+| 2018 | **CVPR** | CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Hu_CVM-Net_Cross-View_Matching_CVPR_2018_paper.html) · [Code](https://github.com/david-husx/crossview_localisation) |
+| 2015 | **ICCV** | Wide-Area Image Geolocalization with Aerial Reference Imagery | [Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Workman_Wide-Area_Image_Geolocalization_ICCV_2015_paper.html) |
 
 ---
 
 ## 💾 Datasets
 
-| Dataset         | Views                      | Number of Locations | Number of Images |  Download |
-| :-------------- | :------------------------- | ------------------: | ---------------: | :-------: |
-| University-1652 | Drone + Satellite + Ground |               1,652 |                — | [Link](#) |
-| SUES-200        | Drone + Satellite          |                 200 |                — | [Link](#) |
-| DenseUAV        | Drone + Satellite          |                   — |                — | [Link](#) |
-| UAV-VisLoc      | Drone + Satellite          |                   — |                — | [Link](#) |
-| CVUSA           | Ground + Satellite         |                   — |                — | [Link](#) |
-| CVACT           | Ground + Satellite         |                   — |                — | [Link](#) |
-| VIGOR           | Ground + Satellite         |                   — |                — | [Link](#) |
+| Dataset | Views / Modalities | Scale | Resources |
+|:---|:---|:---|:---|
+| **University-1652** | Drone + Satellite + Ground, RGB | 1,652 locations, 146,580 images | [Dataset and Baseline](https://github.com/layumi/University1652-Baseline) |
+| **SUES-200** | Drone + Satellite, RGB | 200 locations, 24,120 images | [Dataset and Baseline](https://github.com/Reza-Zhu/SUES-200-Benchmark) |
+| **DenseUAV** | Drone + Satellite, RGB | 3,033 locations, 54,594 images in the official split | [Dataset and Baseline](https://github.com/Dmmm1997/DenseUAV) |
+| **UAV-VisLoc** | Drone + Satellite maps, RGB | 6,742 drone images and 11 satellite maps | [Dataset](https://github.com/IntelliSensing/UAV-VisLoc) |
+| **IRCHN** | Visible Drone + Infrared Drone + Satellite | 8,820 locations, 26,460 images | [Dataset and Code](https://github.com/SongtianhaoXu/MASTR-Net) |
+| **MMGeo Datasets** | Drone image + point cloud/depth/text + satellite | Multimodal extensions of GTA-UAV and UAV-VisLoc | [Dataset and Code](https://github.com/Yux1angJi/MMGeo) |
+| **CVUSA** | Ground Panorama + Satellite, RGB | 44,416 aligned pairs | [Dataset](https://github.com/viibridges/crossnet) |
+| **CVACT** | Ground Panorama + Satellite, RGB | City-scale aligned and fine-grained splits | [Dataset](https://github.com/Liumouliu/OriCNN) |
+| **VIGOR** | Ground Panorama + Satellite, RGB | Four cities with non-aligned one-to-many correspondences | [Dataset and Baseline](https://github.com/Jeff-Zilence/VIGOR) |
+| **DReSS** | Ground Panorama + VHR Satellite, RGB | 174,934 panoramas and 422,760 aerial images | [Dataset and Code](https://github.com/SummerpanKing/DReSS) |
+| **CV-Cities** | Ground + Satellite, RGB | 223,736 image pairs across 16 cities | [Dataset and Code](https://github.com/GaoShuang98/CVCities) |
+| **CVG-Text** | Ground + Satellite + OSM + Text | More than 30,000 coordinates across three cities | [Dataset and Code](https://github.com/yejy53/CVG-Text) |
+| **CV-RHO** | Ground Panorama + OSM | More than 2.7 million images | [Dataset and Code](https://github.com/InSAI-Lab/RHO) |
+| **GeoLoc** | Drone + Ground + Satellite + Text | More than 50,000 aligned multi-view and cross-modal pairs | [Dataset and Code](https://github.com/MiliLab/GeoBridge) |
+| **UniGeoRS** | Satellite + Drone + Ground | Real-world and synthetic tri-view benchmark | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_UniGeoRS_A_Unified_Benchmark_for_Tri-view_Geo-Localization_CVPR_2026_paper.html) |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome.
-
-Please submit a pull request with the following information:
+Contributions are welcome. Please open an issue or submit a pull request with the following information:
 
 ```text
 Paper or dataset name:
-Conference / Journal:
-Publication year:
-Category:
+Venue and year:
+Drone-view or ground-view:
 Paper URL:
 Code URL:
 Dataset URL:
 ```
 
-The category should be one of the following:
-
-* Drone-View Geo-Localization
-* Ground-View Geo-Localization
-* Dataset
+Please note that the main paper tables only include papers from selected top-tier conferences and journals.
 
 ---
 
 ## 📧 Contact
 
-For questions, suggestions, or collaborations, please contact:
+- **GitHub:** [ISChenawei](https://github.com/ISChenawei)
+- **Homepage:** [ischenawei.github.io](https://ischenawei.github.io)
+- **Email:** ISChenawei@stu.xjtu.edu.cn
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **Homepage:** https://your-homepage.com
-* **GitHub:** https://github.com/your-name
