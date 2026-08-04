@@ -142,7 +142,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 | **DenseUAV** | Drone + Satellite, RGB | 3,033 locations, 54,594 images in the official split | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://github.com/Dmmm1997/DenseUAV) |
 | **UAV-VisLoc** | Drone + Satellite maps, RGB | 6,742 drone images and 11 satellite maps | [🗂️&nbsp;Dataset](https://github.com/IntelliSensing/UAV-VisLoc) |
 | **IRCHN** | Visible Drone + Infrared Drone + Satellite | 8,820 locations, 26,460 images | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Code](https://github.com/SongtianhaoXu/MASTR-Net) |
-| **MMGeo Datasets** | Drone image + point cloud/depth/text + satellite | Multimodal extensions of GTA-UAV and UAV-VisLoc | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Code](https://github.com/Yux1angJi/MMGeo) |
+| **MMGeo** | Drone image + point cloud/depth/text + satellite | Multimodal extensions of GTA-UAV and UAV-VisLoc | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Code](https://github.com/Yux1angJi/MMGeo) |
 | **CVUSA** | Ground Panorama + Satellite, RGB | 44,416 aligned pairs | [🗂️&nbsp;Dataset](https://github.com/viibridges/crossnet) |
 | **CVACT** | Ground Panorama + Satellite, RGB | City-scale aligned and fine-grained splits | [🗂️&nbsp;Dataset](https://github.com/Liumouliu/OriCNN) |
 | **VIGOR** | Ground Panorama + Satellite, RGB | Four cities with non-aligned one-to-many correspondences | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://github.com/Jeff-Zilence/VIGOR) |
