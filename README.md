@@ -152,6 +152,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 |:---|:---|:---|:---|
 | **University-1652** | Drone + Satellite + Ground, RGB | 1,652 locations, 146,580 images | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://github.com/layumi/University1652-Baseline) |
 | **SUES-200** | Drone + Satellite, RGB | 200 locations, 24,120 images | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://github.com/Reza-Zhu/SUES-200-Benchmark) |
+| **GeoText-1652** | Drone + Satellite + Text | 1,652 locations, 146,580 images | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://multimodalgeo.github.io/GeoText/) |
 | **DenseUAV** | Drone + Satellite, RGB | 3,033 locations, 54,594 images in the official split | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Baseline](https://github.com/Dmmm1997/DenseUAV) |
 | **UAV-VisLoc** | Drone + Satellite maps, RGB | 6,742 drone images and 11 satellite maps | [🗂️&nbsp;Dataset](https://github.com/IntelliSensing/UAV-VisLoc) |
 | **IRCHN** | Visible Drone + Infrared Drone + Satellite | 8,820 locations, 26,460 images | [🗂️&nbsp;Data&nbsp;&amp;&nbsp;Code](https://github.com/SongtianhaoXu/MASTR-Net) |
