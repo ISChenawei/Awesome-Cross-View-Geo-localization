@@ -55,7 +55,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 | 2026 | **TNNLS** | ⭐ **Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://doi.org/10.1109/TNNLS.2026.3696684)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/DMNIL) |
 | 2026 | **TMM** | ⭐ **From Limited Labels to Open Domains: An Efficient Learning Method for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2503.07520)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/CDIKTNet) |
 | 2025 | **TGRS** | ⭐ **Multilevel Embedding and Alignment Network With Consistency and Invariance Learning for Cross-View Geo-Localization** | [📄&nbsp;Paper](https://doi.org/10.1109/TGRS.2025.3572775)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/MEAN) |
-| 2026 | **Preprint** | **GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation** | [📄&nbsp;Paper](https://arxiv.org/abs/2607.25788) |
+| 2026 | **Preprint** | **GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation** | [📄&nbsp;Paper](https://arxiv.org/abs/2607.25788)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/GeoMFD) |
 | 2026 | **Preprint** | **A Unified Benchmark and Modality-Adaptive Network for Day-and-Night Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2607.25778)&nbsp;·&nbsp;[💻&nbsp;Code&nbsp;&amp;&nbsp;Data](https://github.com/SongtianhaoXu/MASTR-Net) |
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
