@@ -70,7 +70,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
-| 2026 | **TGRS** | Enhancing Cross-View Geo-localization via Global–Local Feature Matching and Keypoint Guidance | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11569787)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/OrigamiSL/LKGL) |
+| 2026 | **TGRS** | Integrating Multiscale Consistency and Enhanced Feature Interaction for Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397079)|
 | 2026 | **CVPR** | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Beyond_Matching_to_Tiles_Bridging_Unaligned_Aerial_and_Satellite_Views_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_PAUL_Uncertainty-Guided_Partition_and_Augmentation_for_Robust_Cross-View_Geo-Localization_under_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | UniGeoRS: A Unified Benchmark for Tri-view Geo-Localization | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_UniGeoRS_A_Unified_Benchmark_for_Tri-view_Geo-Localization_CVPR_2026_paper.html) |
