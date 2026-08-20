@@ -69,6 +69,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **TGRS** | Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11456732)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/anocodetest1/DyCL)|
 | 2026 | **TGRS** | DepthGeoLoc: Learning Structure-Aware Depth Priors for Robust UAV-Satellite Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11520362)|
 | 2026 | **TGRS** | Integrating Multiscale Consistency and Enhanced Feature Interaction for Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397079)|
 | 2026 | **CVPR** | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Beyond_Matching_to_Tiles_Bridging_Unaligned_Aerial_and_Satellite_Views_CVPR_2026_paper.html) |
