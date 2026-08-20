@@ -61,7 +61,6 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
 ---
-
 ## 🚁 Drone-View Geo-Localization
 
 > Papers on drone-to-satellite, satellite-to-drone, UAV navigation, and related aerial cross-view localization settings.
@@ -70,6 +69,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **TGRS** | DepthGeoLoc: Learning Structure-Aware Depth Priors for Robust UAV-Satellite Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11520362)|
 | 2026 | **TGRS** | Integrating Multiscale Consistency and Enhanced Feature Interaction for Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397079)|
 | 2026 | **CVPR** | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Beyond_Matching_to_Tiles_Bridging_Unaligned_Aerial_and_Satellite_Views_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_PAUL_Uncertainty-Guided_Partition_and_Augmentation_for_Robust_Cross-View_Geo-Localization_under_CVPR_2026_paper.html) |
