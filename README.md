@@ -69,6 +69,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **TGRS** | TBN: An All-in-One Triplet Branch Network for Adverse Weather Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11602083)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/Moish25/TBN)|
 | 2026 | **TGRS** | Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11456732)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/anocodetest1/DyCL)|
 | 2026 | **TGRS** | DepthGeoLoc: Learning Structure-Aware Depth Priors for Robust UAV-Satellite Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11520362)|
 | 2026 | **TGRS** | Integrating Multiscale Consistency and Enhanced Feature Interaction for Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397079)|
