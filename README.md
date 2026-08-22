@@ -51,8 +51,8 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Work</div> | Resources |
 |:---:|:---:|:---|:---:|
-| 2026 | **ACMMM** | ⭐ GeoLink: A 3D-aware Framework to Improve Generalization for Cross-view Geo-localization | [📄&nbsp;Paper](https://arxiv.org/pdf/2604.13183)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/GeoLink)|
-| 2026 | **ICML** | ⭐ InfoGeo: Information-Theoretic Object-Centric Learning for Cross-View Generalizable UAV Geo-Localization | [📄&nbsp;Paper](https://openreview.net/pdf?id=v6xrfEjNQv)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/Official_InfoGeo)|
+| 2026 | **ACMMM** | ⭐ **GeoLink: A 3D-aware Framework to Improve Generalization for Cross-view Geo-localization** | [📄&nbsp;Paper](https://arxiv.org/pdf/2604.13183)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/GeoLink)|
+| 2026 | **ICML** | ⭐ **InfoGeo: Information-Theoretic Object-Centric Learning for Cross-View Generalizable UAV Geo-Localization** | [📄&nbsp;Paper](https://openreview.net/pdf?id=v6xrfEjNQv)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/Official_InfoGeo)|
 | 2026 | **TCSVT** | ⭐ **Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2512.19365)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/SpikeViMFormer) |
 | 2026 | **TNNLS** | ⭐ **Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://doi.org/10.1109/TNNLS.2026.3696684)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/DMNIL) |
 | 2026 | **TMM** | ⭐ **From Limited Labels to Open Domains: An Efficient Learning Method for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2503.07520)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/CDIKTNet) |
