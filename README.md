@@ -51,6 +51,8 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Work</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **ACMMM** | ⭐ GeoLink: A 3D-aware Framework to Improve Generalization for Cross-view Geo-localization | [📄&nbsp;Paper](https://arxiv.org/pdf/2604.13183)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/GeoLink)|
+| 2026 | **ICML** | ⭐ InfoGeo: Information-Theoretic Object-Centric Learning for Cross-View Generalizable UAV Geo-Localization | [📄&nbsp;Paper](https://openreview.net/pdf?id=v6xrfEjNQv)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/Official_InfoGeo)|
 | 2026 | **TCSVT** | ⭐ **Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2512.19365)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/SpikeViMFormer) |
 | 2026 | **TNNLS** | ⭐ **Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://doi.org/10.1109/TNNLS.2026.3696684)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/DMNIL) |
 | 2026 | **TMM** | ⭐ **From Limited Labels to Open Domains: An Efficient Learning Method for Drone-View Geo-Localization** | [📄&nbsp;Paper](https://arxiv.org/abs/2503.07520)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/ISChenawei/CDIKTNet) |
@@ -69,10 +71,12 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **ACMMM** | ⭐ GeoLink: A 3D-aware Framework to Improve Generalization for Cross-view Geo-localization | [📄&nbsp;Paper](https://arxiv.org/pdf/2604.13183)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/GeoLink)|
 | 2026 | **TGRS** | TBN: An All-in-One Triplet Branch Network for Adverse Weather Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11602083)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/Moish25/TBN)|
 | 2026 | **TGRS** | Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11456732)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/anocodetest1/DyCL)|
 | 2026 | **TGRS** | DepthGeoLoc: Learning Structure-Aware Depth Priors for Robust UAV-Satellite Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11520362)|
 | 2026 | **TGRS** | Integrating Multiscale Consistency and Enhanced Feature Interaction for Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397079)|
+| 2026 | **ICML** | ⭐ InfoGeo: Information-Theoretic Object-Centric Learning for Cross-View Generalizable UAV Geo-Localization | [📄&nbsp;Paper](https://openreview.net/pdf?id=v6xrfEjNQv)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/Official_InfoGeo)|
 | 2026 | **CVPR** | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Beyond_Matching_to_Tiles_Bridging_Unaligned_Aerial_and_Satellite_Views_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_PAUL_Uncertainty-Guided_Partition_and_Augmentation_for_Robust_Cross-View_Geo-Localization_under_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | UniGeoRS: A Unified Benchmark for Tri-view Geo-Localization | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_UniGeoRS_A_Unified_Benchmark_for_Tri-view_Geo-Localization_CVPR_2026_paper.html) |
@@ -200,9 +204,9 @@ Please note that the main paper tables only include papers from selected top-tie
 
 ## 📧 Contact
 
-- **GitHub:** [ISChenawei](https://github.com/ISChenawei)
-- **Homepage:** [ischenawei.github.io](https://ischenawei.github.io)
-- **Email:** ISChenawei@stu.xjtu.edu.cn
+- **GitHub:** [ISChenawei](https://github.com/ISChenawei), [HRT00](https://github.com/HRT00).
+- **Homepage:** [ischenawei.github.io](https://ischenawei.github.io), [hyzhang.github.io](https://hrt00.github.io/hyzhang.github.io/).
+- **Email:** ISChenawei@stu.xjtu.edu.cn, hongyangzhang1@link.cuhk.edu.cn
 
 ---
 
