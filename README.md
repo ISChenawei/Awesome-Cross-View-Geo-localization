@@ -117,6 +117,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **ICML** | Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution | [📄&nbsp;Paper](https://openreview.net/pdf?id=cCHiqfnZen) |
 | 2026 | **CVPR** | Geo2: Geometry-Guided Cross-view Geo-Localization and Image Synthesis | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Geo2_Geometry-Guided_Cross-view_Geo-Localization_and_Image_Synthesis_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.html) |
 | 2026 | **CVPR** | RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_RHO_Robust_Holistic_OSM-Based_Metric_Cross-View_Geo-Localization_CVPR_2026_paper.html)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/InSAI-Lab/RHO) |
