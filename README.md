@@ -71,6 +71,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **TCSVT** | GeoAlign: Foundation Model-driven Asymmetric Dual-Stream Manifold Alignment for Unsupervised Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/document/11622536/)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/JZLhope/GeoAlign) |
 | 2026 | **TGRS** | A Large-Kernel Perceptual Attention Network for Robust Multi‑View Geo‑Localization with Drone‑View Offset Adaptation | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11655941)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HAORANJY/LK-PAN-main)|
 | 2026 | **ACMMM** | ⭐ GeoLink: A 3D-aware Framework to Improve Generalization for Cross-view Geo-localization | [📄&nbsp;Paper](https://arxiv.org/pdf/2604.13183)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/HRT00/GeoLink)|
 | 2026 | **TGRS** | TBN: An All-in-One Triplet Branch Network for Adverse Weather Cross-View Geo-Localization | [📄&nbsp;Paper](https://ieeexplore.ieee.org/abstract/document/11602083)&nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/Moish25/TBN)|
