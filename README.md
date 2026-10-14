@@ -119,6 +119,7 @@ Cross-view localization between **ground-level images** and **satellite or aeria
 
 | Year | Venue | <div align="center">Title</div> | Resources |
 |:---:|:---:|:---|:---:|
+| 2026 | **ECCV** | Warp-free Cross-view Geo-localization via Feature-space Consensus Mining | [📄&nbsp;Paper](https://link.springer.com/chapter/10.1007/978-3-032-37350-2_7) |
 | 2026 | **ECCV** | Sector-Level Cross-View Geo-Localization with Implicit Orientation via Azimuthal Scanning | [📄&nbsp;Paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_15) |
 | 2026 | **ICML** | Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution | [📄&nbsp;Paper](https://openreview.net/pdf?id=cCHiqfnZen) |
 | 2026 | **CVPR** | GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction | [📄&nbsp;Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Geo2_Geometry-Guided_Cross-view_Geo-Localization_and_Image_Synthesis_CVPR_2026_paper.html) &nbsp;·&nbsp;[💻&nbsp;Code](https://github.com/AyeshAbuLehyeh/GeoFlow) |
